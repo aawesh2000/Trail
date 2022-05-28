@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/navbar-dropdown-v1/static/css/main.cca13aff.chunk.css",
+    "main.js": "/navbar-dropdown-v1/static/js/main.a8aa3d2a.chunk.js",
+    "main.js.map": "/navbar-dropdown-v1/static/js/main.a8aa3d2a.chunk.js.map",
+    "runtime-main.js": "/navbar-dropdown-v1/static/js/runtime-main.fc7893b3.js",
+    "runtime-main.js.map": "/navbar-dropdown-v1/static/js/runtime-main.fc7893b3.js.map",
+    "static/js/2.599373e5.chunk.js": "/navbar-dropdown-v1/static/js/2.599373e5.chunk.js",
+    "static/js/2.599373e5.chunk.js.map": "/navbar-dropdown-v1/static/js/2.599373e5.chunk.js.map",
+    "index.html": "/navbar-dropdown-v1/index.html",
+    "precache-manifest.3959e3b6dd2ca647a64366e57cd9be66.js": "/navbar-dropdown-v1/precache-manifest.3959e3b6dd2ca647a64366e57cd9be66.js",
+    "service-worker.js": "/navbar-dropdown-v1/service-worker.js",
+    "static/css/main.cca13aff.chunk.css.map": "/navbar-dropdown-v1/static/css/main.cca13aff.chunk.css.map",
+    "static/js/2.599373e5.chunk.js.LICENSE.txt": "/navbar-dropdown-v1/static/js/2.599373e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc7893b3.js",
+    "static/js/2.599373e5.chunk.js",
+    "static/css/main.cca13aff.chunk.css",
+    "static/js/main.a8aa3d2a.chunk.js"
+  ]
+}
